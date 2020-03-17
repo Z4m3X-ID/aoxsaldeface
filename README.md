@@ -15,7 +15,7 @@ dan ini hanya metode upload file saja
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
+* `git clone https://github.com/Z4m3X-ID/aoxsaldeface.git`
 * `cd AOXdeface`
 * `python2 aox.py`
 
@@ -24,6 +24,6 @@ dan ini hanya metode upload file saja
 * `apt-get install pthon-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
+* `git clone https://github.com/Z4m3X-ID/aoxsaldeface.git`
 * `cd AOXdeface`
 * `python aox.py`
